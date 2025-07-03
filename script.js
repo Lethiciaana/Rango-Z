@@ -1,3 +1,4 @@
+console.log('oi')
 const botao = document.querySelector('.botao');
 const imagem = document.querySelector('.onca')
 let estadoImagem = 0
